@@ -6,6 +6,7 @@
 
 import sys
 import utilities
+# import requests
 
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
